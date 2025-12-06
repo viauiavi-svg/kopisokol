@@ -1,0 +1,21 @@
+{
+    "api_id": 24520809,
+    "api_hash": "dbd5db9c47159cbcb0016691f6082f82",
+    "bot_token": "8289680381:AAEyvB-3vvDDikEPiCFpljt9lbctvljex-Y",
+    
+    "my_id": 5781587511,
+    "technical_channel_id":-1002363149346,
+
+    "new_link": "https://t.me/+bJu7puErgk83OTgy",
+    "new_username": "@Gshshsbjff",
+
+    "openai_api_key_gpt": "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",
+    "link_gpt": "https://api.openai.com/v1/chat/completions",
+
+    "openai_api_key_dalle": "sk-1111111111111111111111",
+    "link_dalle": "https://api.aiguoguo199.com/v1/images/generations",
+
+    "SAFE_MODE_LIMIT": 210,
+    "TIMEOUT": 10800
+  }
+  

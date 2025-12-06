@@ -1,0 +1,163 @@
+14:19:18-INFO-GRAB - Запущен
+14:32:59-INFO-Канал-получатель Бойовий Сокіл добавлен
+14:36:46-INFO-GRAB - Запущен
+14:37:02-INFO-Fнаal error handling updнаes (this is a bug in Telethon v1.42.0, please report it)
+Traceback (most recent call last):
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\updнаes.py", line 467, in _updнаe_loop
+    _preprocess_updнаes = await self._preprocess_updнаes(processed, users, chнаs)
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\updнаes.py", line 478, in _preprocess_updнаes
+    await utils.maybe_async(self.session.process_entities(types.contacts.ResolvedPeer(None, users, chнаs)))
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\sessions\sqlite.py", line 301, in process_entities
+    c.executemany(
+sqlite3.OperнаionalError: dнаabase is locked
+14:39:30-INFO-GRAB - Запущен
+14:39:40-INFO-Ожидание пересланного сообщения с канала
+14:41:02-INFO-Ожидание пересланного сообщения с канала
+14:42:44-INFO-Канал Ринда моніторить добавлен
+14:54:36-INFO-Unhandled exception from keepalive_handle after cancelling <class '_asyncio.Task'> (<Task finished name='Task-10' coro=<UpdнаeMethods._keepalive_loop() done, defined на C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\updнаes.py:485> exception=OperнаionalError('dнаabase is locked')>)
+Traceback (most recent call last):
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\helpers.py", line 176, in _cancel
+    await task
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\updнаes.py", line 521, in _keepalive_loop
+    await self._save_stнаes_and_entities()
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\telegrambaseclient.py", line 701, in _save_stнаes_and_entities
+    self.session.process_entities(
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\sessions\sqlite.py", line 301, in process_entities
+    c.executemany(
+sqlite3.OperнаionalError: dнаabase is locked
+14:57:35-INFO-GRAB - Запущен
+14:59:11-INFO-GRAB - Запущен
+15:06:53-INFO-GRAB - Запущен
+15:09:00-INFO-Обработка 1 сообщений. Безопасный режим отключен
+15:09:00-INFO-Обработано 1 сообщений
+15:09:00-INFO-1/1 сообщений отправлено.
+15:09:00-INFO-Отправка 1 сообщений завершена.
+15:14:09-INFO-Обработка 1 сообщений. Безопасный режим отключен
+15:14:09-INFO-Обработано 1 сообщений
+15:14:09-INFO-1/1 сообщений отправлено.
+15:14:09-INFO-Отправка 1 сообщений завершена.
+15:14:59-INFO-Ожидание ввода whitelist слов
+15:15:10-INFO-Файл 'white_list.pickle' не найден, создаем новый.
+15:15:10-INFO-Whitelist слова добавлены
+15:19:11-INFO-Ожидание ввода слов для чёрного списка
+15:20:34-INFO-Файл 'blacklist.pickle' не найден, создаем новый.
+15:20:34-INFO-Слова для чёрного списка добавлены
+15:21:26-INFO-Ожидание выбора канала
+15:21:29-INFO-Ожидание ввода текста в конец поста
+15:21:36-INFO-Текст с встроенными ссылками сохранен в конец поста
+15:24:55-INFO-GRAB - Запущен
+15:24:57-INFO-GRAB - Запущен
+15:24:59-INFO-GRAB - Запущен
+15:25:30-INFO-Обработка 1 сообщений. Безопасный режим отключен
+15:25:31-INFO-Обработано 1 сообщений
+15:25:31-INFO-Сообщение содержит запрещенные слова, НЕ будет отправлено
+15:25:31-INFO-Отправка 1 сообщений завершена.
+15:26:10-INFO-Ожидание пересланного сообщения с канала
+15:26:19-INFO-Канал Контроль | Чернігів добавлен
+15:27:26-INFO-GRAB - Запущен
+15:33:30-INFO-Запрос на переформулировку текста - оригинальный текст: ⚠️ Акустично ще один БпЛА поблизу Ріпок
+15:33:49-INFO-Запрос на переформулировку текста - оригинальный текст: ⚠️ Акустично ще один БпЛА поблизу Ріпок
+15:33:57-INFO-Запрос на переформулировку текста - оригинальный текст: ⚠️ Акустично ще один БпЛА поблизу Ріпок
+15:33:58-INFO-Запрос на переформулировку текста - оригинальный текст: ⚠️ Акустично ще один БпЛА поблизу Ріпок
+15:33:58-INFO-Запрос на переформулировку текста - оригинальный текст: ⚠️ Акустично ще один БпЛА поблизу Ріпок
+15:33:58-INFO-Запрос на переформулировку текста - оригинальный текст: ⚠️ Акустично ще один БпЛА поблизу Ріпок
+15:34:21-INFO-Запрос на переформулировку текста - оригинальный текст: ⚠️ Акустично ще один БпЛА поблизу Ріпок
+15:35:17-INFO-Обработка запроса на отправку для message_id: 3
+15:35:35-INFO-Запрос на переформулировку текста - оригинальный текст: КСК, ТЕЦ 🔴
+15:38:21-INFO-Обработка запроса на отправку для message_id: 9
+15:45:11-INFO-Запрос на генерацию изображения - оригинальный текст: Наче не видно
+15:45:12-ERROR-Error requesting OpenAI DALL·E 3: 401 - {"error":{"message":"invalid token (request id: 2025120621450949171247533208887)","type":"guoguo_api_error"}}
+15:45:12-ERROR-Ошибка во время генерации изображения.
+15:45:15-INFO-Запрос на переформулировку текста - оригинальный текст: Наче не видно
+15:45:50-INFO-Запрос на переформулировку текста - оригинальный текст: є, Деснянка - Кошівка
+16:02:42-INFO-Запрос на переформулировку текста - оригинальный текст: Наче не видно
+16:02:54-INFO-Обработка запроса на отправку для message_id: 19
+16:19:07-INFO-Запускаю polling aiogram
+16:19:44-INFO-Запрос на переформулировку текста - оригинальный текст: ⚠️ Локаційно залишилося 2 БпЛА поблизу Ріпок, але за акустичними даними можливо більше
+16:20:06-INFO-Unhandled exception from keepalive_handle after cancelling <class '_asyncio.Task'> (<Task finished name='Task-10' coro=<UpdнаeMethods._keepalive_loop() done, defined на C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\updнаes.py:485> exception=OperнаionalError('dнаabase is locked')>)
+Traceback (most recent call last):
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\helpers.py", line 176, in _cancel
+    await task
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\updнаes.py", line 521, in _keepalive_loop
+    await self._save_stнаes_and_entities()
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\telegrambaseclient.py", line 701, in _save_stнаes_and_entities
+    self.session.process_entities(
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\sessions\sqlite.py", line 301, in process_entities
+    c.executemany(
+sqlite3.OperнаionalError: dнаabase is locked
+16:20:27-INFO-Запрос на переформулировку текста - оригинальный текст: ➡️ Рух БпЛА в Брянській області в район Городня - Сновськ
+16:22:07-ERROR-Error in my_event_handler: name 'link_replacement_active' is not defined
+16:22:07-ERROR-Error in my_event_handler: name 'link_replacement_active' is not defined
+16:22:07-ERROR-Error in my_event_handler: name 'link_replacement_active' is not defined
+16:22:54-INFO-Запускаю polling aiogram
+16:24:01-ERROR-Error in my_event_handler: name 'link_replacement_active' is not defined
+16:48:48-INFO-GRAB - Запущен
+16:49:34-INFO-Сообщение переслано: из канала -1002819528745 в канал -1002363149346
+16:49:37-INFO-Сообщение переслано: из канала -1002819528745 в канал -1002363149346
+16:51:20-INFO-GRAB - Запущен
+16:52:22-WARNING-Сообщение с ID 29 не найдено
+17:04:30-INFO-Сообщение переслано: из канала -1002819528745 в канал -1002363149346
+17:05:16-INFO-Сообщение переслано: из канала -1002819528745 в канал -1002363149346
+17:06:21-INFO-Сообщение переслано: из канала -1002819528745 в канал -1002363149346
+17:08:29-INFO-Сообщение переслано: из канала -1002819528745 в канал -1002363149346
+17:10:21-INFO-Сообщение переслано: из канала -1002819528745 в канал -1002363149346
+17:12:42-INFO-Сообщение переслано: из канала -1002819528745 в канал -1002363149346
+17:15:09-INFO-Unhandled exception on my_event_handler
+Traceback (most recent call last):
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\updнаes.py", line 574, in _dispнаch_updнаe
+    await callback(event)
+  File "C:\Users\MSI\OneDrive\Робочий стіл\GraberPro\GraberPro - premium\main.py", line 515, in my_event_handler
+    destinнаion_channel_id = channel_mapping[event.chна_id]
+KeyError: -1002819528745
+17:17:52-INFO-Unhandled exception on my_event_handler
+Traceback (most recent call last):
+  File "C:\Users\MSI\AppDнаa\Local\Programs\Python\Python310\lib\site-packages\telethon\client\updнаes.py", line 574, in _dispнаch_updнаe
+    await callback(event)
+  File "C:\Users\MSI\OneDrive\Робочий стіл\GraberPro\GraberPro - premium\main.py", line 515, in my_event_handler
+    destinнаion_channel_id = channel_mapping[event.chна_id]
+KeyError: -1002819528745
+17:30:27-INFO-GRAB - Запущен
+17:30:41-INFO-Ожидание выбора канала
+17:31:31-INFO-GRAB - Запущен
+17:32:04-INFO-Ожидание ввода удаляемого текста
+17:32:15-INFO-Файл 'deleting_text.pickle' не найден, создаем новый.
+17:32:15-INFO-Удаляемый текст добавлен
+17:32:59-INFO-Ожидание ввода удаляемого текста
+17:33:02-INFO-Удаляемый текст добавлен
+17:33:17-INFO-Ожидание пересланного сообщения с канала
+17:33:22-INFO-Канал Контроль | Чернігів добавлен
+17:33:40-INFO-Обработка 2 сообщений. Безопасный режим отключен
+17:33:40-INFO-Обработано 2 сообщений
+17:33:40-INFO-1/2 сообщений отправлено.
+17:33:40-INFO-2/2 сообщений отправлено.
+17:33:40-INFO-Отправка 2 сообщений завершена.
+17:34:34-INFO-Ожидание ввода удаляемого текста
+17:34:37-INFO-Удаляемый текст добавлен
+17:34:49-INFO-Обработка 1 сообщений. Безопасный режим отключен
+17:34:49-INFO-Обработано 1 сообщений
+17:34:49-INFO-1/1 сообщений отправлено.
+17:34:49-INFO-Отправка 1 сообщений завершена.
+17:35:05-INFO-Ожидание ввода удаляемого текста
+17:35:36-INFO-Удаляемый текст добавлен
+17:36:39-INFO-Обработка 1 сообщений. Безопасный режим отключен
+17:36:40-INFO-Обработано 1 сообщений
+17:36:40-INFO-1/1 сообщений отправлено.
+17:36:40-INFO-Отправка 1 сообщений завершена.
+17:36:53-INFO-Обработка 2 сообщений. Безопасный режим отключен
+17:36:53-INFO-Обработано 2 сообщений
+17:36:53-INFO-1/2 сообщений отправлено.
+17:36:53-INFO-2/2 сообщений отправлено.
+17:36:53-INFO-Отправка 2 сообщений завершена.
+17:46:30-INFO-Ожидание ввода whitelist слов
+17:46:36-INFO-Whitelist слова добавлены
+17:47:02-INFO-Ожидание ввода whitelist слов
+17:47:11-INFO-Whitelist слова добавлены
+17:48:15-INFO-Ожидание ввода удаляемого текста
+17:51:14-INFO-Удаляемый текст добавлен
+18:00:13-INFO-Ожидание ввода удаляемого текста
+18:04:14-INFO-Удаляемый текст добавлен
+18:04:19-INFO-Ожидание ввода whitelist слов
+18:04:46-INFO-Whitelist слова добавлены
+18:05:18-INFO-GRAB - Запущен
+18:06:09-INFO-Ожидание ввода whitelist слов
+18:06:17-INFO-Whitelist слова добавлены
